@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9e035d680848a0049810a435ba4cdd44
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20658
+  packageName: Indoor Sports - the Red Lion Pub
+  packageVersion: 1.1
+  assetPath: Assets/03_LocalPub/Prefabs/CameraController.prefab
+  uploadId: 460490

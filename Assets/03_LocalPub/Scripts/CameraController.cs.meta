@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0ecf1dfba461d32499023e4824ddd2ab
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20658
+  packageName: Indoor Sports - the Red Lion Pub
+  packageVersion: 1.1
+  assetPath: Assets/03_LocalPub/Scripts/CameraController.cs
+  uploadId: 460490

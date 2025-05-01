@@ -1,0 +1,2 @@
+C:\Users\taili\OneDrive\Desktop\School Files\University\CS 458\Darts and Drafts\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\taili\OneDrive\Desktop\School Files\University\CS 458\Darts and Drafts\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

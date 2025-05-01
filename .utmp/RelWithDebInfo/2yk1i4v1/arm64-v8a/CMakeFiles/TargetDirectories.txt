@@ -1,0 +1,5 @@
+C:/Users/taili/OneDrive/Desktop/School Files/University/CS 458/Darts and Drafts/.utmp/RelWithDebInfo/2yk1i4v1/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/taili/OneDrive/Desktop/School Files/University/CS 458/Darts and Drafts/.utmp/RelWithDebInfo/2yk1i4v1/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/taili/OneDrive/Desktop/School Files/University/CS 458/Darts and Drafts/.utmp/RelWithDebInfo/2yk1i4v1/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/taili/OneDrive/Desktop/School Files/University/CS 458/Darts and Drafts/.utmp/RelWithDebInfo/2yk1i4v1/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/taili/OneDrive/Desktop/School Files/University/CS 458/Darts and Drafts/.utmp/RelWithDebInfo/2yk1i4v1/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
